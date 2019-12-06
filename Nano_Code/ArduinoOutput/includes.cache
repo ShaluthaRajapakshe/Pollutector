@@ -1,0 +1,37 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\eightanaloginputs"
+  },
+  {
+    "Sourcefile": "c:\\Users\\Shalutha\\Documents\\IOT_Project_Pollutector\\Nano_Code\\ArduinoOutput\\sketch\\Nano_Code.ino.cpp",
+    "Include": "SimpleDHT.h",
+    "Includepath": "C:\\Users\\Shalutha\\Documents\\Arduino\\libraries\\SimpleDHT"
+  },
+  {
+    "Sourcefile": "c:\\Users\\Shalutha\\Documents\\IOT_Project_Pollutector\\Nano_Code\\ArduinoOutput\\sketch\\Nano_Code.ino.cpp",
+    "Include": "NeoSWSerial.h",
+    "Includepath": "C:\\Users\\Shalutha\\Documents\\Arduino\\libraries\\NeoSWSerial\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\Shalutha\\Documents\\IOT_Project_Pollutector\\Nano_Code\\ArduinoOutput\\sketch\\Nano_Code.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Shalutha\\Documents\\Arduino\\libraries\\SimpleDHT\\SimpleDHT.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\Shalutha\\Documents\\Arduino\\libraries\\NeoSWSerial\\src\\NeoSWSerial.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]
