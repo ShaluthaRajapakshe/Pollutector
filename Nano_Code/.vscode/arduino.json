@@ -1,7 +1,0 @@
-{
-    "board": "arduino:avr:nano",
-    "configuration": "cpu=atmega328old",
-    "sketch": "Nano_Code.ino",
-    "output": "ArduinoOutput",
-    "port": "COM8"
-}
